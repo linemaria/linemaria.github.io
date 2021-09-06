@@ -1,0 +1,70 @@
+@import url("https://use.typekit.net/oek0tql.css");
+
+* {
+  font-family: "poppins", sans-serif;
+  line-height: 1.8; /* radhöjd */
+  cursor: pointer; /* sätt pil till pointer hand */
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f3f3f3;
+  color: #202020;
+  font-family: "poppins", sans-serif;
+  margin: 0em;
+}
+/* logga */
+.logo {
+  width: 14em;
+  margin-top: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.menu{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    margin-right: 2em;
+    margin-top: -0.5em;
+    margin-bottom: 2em;
+}
+
+nav ul li{
+list-style-type: none;
+display: inline;
+margin-left: 0.2em;
+margin-right: 0.2em;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: rgb(49, 49, 49);
+    font-family: "poppins", sans-serif;
+    font-size: 1.6em;
+}
+nav ul li a:hover{
+    color: rgb(255, 170, 139);
+    
+}
+
+.aboutImg{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 60%;
+}
+
+.mainText{
+    text-align: center;
+    margin-bottom: 4em;
+}
+
+footer{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+}
