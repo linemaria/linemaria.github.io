@@ -1,1 +1,0 @@
-{"version":3,"sources":["one.js","two.js"],"names":["console","log"],"mappings":"AAAAA,QAAAC,IAAA,sBCAAD,QAAAC,IAAA","file":"../js/main.js","sourcesContent":["console.log(\"hello from one.js!\");","console.log(\"hello from two.js\");"]}
